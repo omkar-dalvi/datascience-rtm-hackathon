@@ -5,7 +5,9 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.8"
 dependencies = [
+    "autoviz>=0.1.807",
     "pandas>=2.0.3",
+    "pandas-profiling[notebook]>=3.6.6",
     "seaborn>=0.13.2",
 ]
 
