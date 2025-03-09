@@ -6,9 +6,13 @@ readme = "README.md"
 requires-python = ">=3.8"
 dependencies = [
     "pandas>=2.0.3",
+    "seaborn>=0.13.2",
 ]
 
 [dependency-groups]
 dev = [
     "ipykernel>=6.29.5",
 ]
+
+[tool.uv.workspace]
+members = ["datascience-rtm-hackathon"]

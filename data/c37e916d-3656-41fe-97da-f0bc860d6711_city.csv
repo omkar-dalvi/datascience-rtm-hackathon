@@ -1,4 +1,4 @@
-City_ID,City_Name,City_tier,Population_Density(persons/km²),Per_Capita_Income (INR),,,,,,,,
+City_ID,City_Name,City_tier,Population_Density(persons/km),Per_Capita_Income (INR),,,,,,,,
 CT001,Delhi,Tier 1,14893,"4,61,910",,,,,,,,
 CT002,Mumbai,Tier 1,20518,"4,00,000",,,,,,,,
 CT003,Kolkata,Tier 1,24252,171184,,,,,,,,
