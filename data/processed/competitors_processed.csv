@@ -1,0 +1,1261 @@
+Date,Channel,Brand,Mentions_Count,Sentiment_Score,Share_of_Voice
+2023-01-02,E Commerce,Amazon Solimo,156,61.3,15.0
+2023-01-02,E Commerce,Minute Maid,346,70.0,33.2
+2023-01-02,E Commerce,Real Fruit Juice,542,70.9,51.9
+2023-01-02,General Trade,Minute Maid,551,72.4,53.8
+2023-01-02,General Trade,Paper Boat,474,67.0,46.2
+2023-01-02,HoReCa,B Natural,152,69.5,28.0
+2023-01-02,HoReCa,Minute Maid,227,69.7,41.8
+2023-01-02,HoReCa,Paper Boat,164,63.8,30.2
+2023-01-02,Modern Trade,B Natural,331,67.0,37.4
+2023-01-02,Modern Trade,Minute Maid,553,79.8,62.6
+2023-01-02,Q Commerce,Minute Maid,187,69.0,35.1
+2023-01-02,Q Commerce,Tropicana,344,69.0,64.9
+2023-01-09,E Commerce,Amazon Solimo,261,58.3,16.5
+2023-01-09,E Commerce,Minute Maid,482,73.1,30.5
+2023-01-09,E Commerce,Real Fruit Juice,839,56.7,53.0
+2023-01-09,General Trade,Minute Maid,355,69.3,54.3
+2023-01-09,General Trade,Paper Boat,299,75.3,45.7
+2023-01-09,HoReCa,B Natural,191,71.8,29.9
+2023-01-09,HoReCa,Minute Maid,266,76.3,41.7
+2023-01-09,HoReCa,Paper Boat,182,65.1,28.5
+2023-01-09,Modern Trade,B Natural,373,67.0,41.6
+2023-01-09,Modern Trade,Minute Maid,523,64.9,58.4
+2023-01-09,Q Commerce,Minute Maid,412,71.4,36.5
+2023-01-09,Q Commerce,Tropicana,716,75.5,63.5
+2023-01-16,E Commerce,Amazon Solimo,160,67.6,13.4
+2023-01-16,E Commerce,Minute Maid,387,71.2,32.6
+2023-01-16,E Commerce,Real Fruit Juice,642,65.9,54.0
+2023-01-16,General Trade,Minute Maid,815,75.1,57.1
+2023-01-16,General Trade,Paper Boat,613,69.3,42.9
+2023-01-16,HoReCa,B Natural,288,71.5,31.9
+2023-01-16,HoReCa,Minute Maid,375,73.1,41.5
+2023-01-16,HoReCa,Paper Boat,241,63.2,26.7
+2023-01-16,Modern Trade,B Natural,567,62.5,39.3
+2023-01-16,Modern Trade,Minute Maid,878,70.4,60.7
+2023-01-16,Q Commerce,Minute Maid,351,73.2,32.4
+2023-01-16,Q Commerce,Tropicana,733,76.7,67.6
+2023-01-23,E Commerce,Amazon Solimo,228,72.2,17.5
+2023-01-23,E Commerce,Minute Maid,396,70.8,30.3
+2023-01-23,E Commerce,Real Fruit Juice,682,76.8,52.2
+2023-01-23,General Trade,Minute Maid,298,73.2,54.1
+2023-01-23,General Trade,Paper Boat,253,67.0,45.9
+2023-01-23,HoReCa,B Natural,204,69.4,29.4
+2023-01-23,HoReCa,Minute Maid,284,67.7,40.7
+2023-01-23,HoReCa,Paper Boat,208,69.5,29.9
+2023-01-23,Modern Trade,B Natural,338,74.8,39.1
+2023-01-23,Modern Trade,Minute Maid,527,66.8,60.9
+2023-01-23,Q Commerce,Minute Maid,243,70.5,36.3
+2023-01-23,Q Commerce,Tropicana,426,84.0,63.7
+2023-01-30,E Commerce,Amazon Solimo,270,60.7,16.9
+2023-01-30,E Commerce,Minute Maid,520,67.9,32.7
+2023-01-30,E Commerce,Real Fruit Juice,802,60.8,50.4
+2023-01-30,General Trade,Minute Maid,656,76.0,53.3
+2023-01-30,General Trade,Paper Boat,575,73.2,46.7
+2023-01-30,HoReCa,B Natural,218,67.1,30.1
+2023-01-30,HoReCa,Minute Maid,278,70.0,38.3
+2023-01-30,HoReCa,Paper Boat,230,66.9,31.7
+2023-01-30,Modern Trade,B Natural,262,68.9,39.4
+2023-01-30,Modern Trade,Minute Maid,402,62.5,60.6
+2023-01-30,Q Commerce,Minute Maid,183,61.0,35.3
+2023-01-30,Q Commerce,Tropicana,336,69.1,64.7
+2023-02-06,E Commerce,Amazon Solimo,191,61.8,15.8
+2023-02-06,E Commerce,Minute Maid,374,69.3,30.9
+2023-02-06,E Commerce,Real Fruit Juice,643,71.8,53.3
+2023-02-06,General Trade,Minute Maid,411,68.1,54.1
+2023-02-06,General Trade,Paper Boat,349,59.3,45.9
+2023-02-06,HoReCa,B Natural,193,68.8,27.9
+2023-02-06,HoReCa,Minute Maid,292,64.2,42.3
+2023-02-06,HoReCa,Paper Boat,206,69.3,29.8
+2023-02-06,Modern Trade,B Natural,357,76.3,39.8
+2023-02-06,Modern Trade,Minute Maid,541,66.2,60.2
+2023-02-06,Q Commerce,Minute Maid,293,73.9,34.3
+2023-02-06,Q Commerce,Tropicana,561,73.3,65.7
+2023-02-13,E Commerce,Amazon Solimo,221,66.3,18.1
+2023-02-13,E Commerce,Minute Maid,341,63.0,27.9
+2023-02-13,E Commerce,Real Fruit Juice,660,63.9,54.0
+2023-02-13,General Trade,Minute Maid,439,65.9,52.3
+2023-02-13,General Trade,Paper Boat,400,74.5,47.7
+2023-02-13,HoReCa,B Natural,384,82.3,30.3
+2023-02-13,HoReCa,Minute Maid,553,66.4,43.6
+2023-02-13,HoReCa,Paper Boat,331,66.1,26.1
+2023-02-13,Modern Trade,B Natural,420,67.4,38.2
+2023-02-13,Modern Trade,Minute Maid,681,65.1,61.8
+2023-02-13,Q Commerce,Minute Maid,271,66.3,35.3
+2023-02-13,Q Commerce,Tropicana,497,65.8,64.7
+2023-02-20,E Commerce,Amazon Solimo,165,64.5,17.4
+2023-02-20,E Commerce,Minute Maid,303,76.5,31.8
+2023-02-20,E Commerce,Real Fruit Juice,483,66.7,50.8
+2023-02-20,General Trade,Minute Maid,515,71.3,54.3
+2023-02-20,General Trade,Paper Boat,434,67.6,45.7
+2023-02-20,HoReCa,B Natural,218,80.5,29.2
+2023-02-20,HoReCa,Minute Maid,314,63.7,42.0
+2023-02-20,HoReCa,Paper Boat,216,67.6,28.8
+2023-02-20,Modern Trade,B Natural,324,82.8,41.0
+2023-02-20,Modern Trade,Minute Maid,466,72.0,59.0
+2023-02-20,Q Commerce,Minute Maid,274,72.3,37.1
+2023-02-20,Q Commerce,Tropicana,465,83.5,62.9
+2023-02-27,E Commerce,Amazon Solimo,200,70.5,20.9
+2023-02-27,E Commerce,Minute Maid,294,61.4,30.7
+2023-02-27,E Commerce,Real Fruit Juice,464,57.6,48.4
+2023-02-27,General Trade,Minute Maid,647,63.6,56.3
+2023-02-27,General Trade,Paper Boat,502,64.3,43.7
+2023-02-27,HoReCa,B Natural,156,70.0,29.7
+2023-02-27,HoReCa,Minute Maid,199,67.2,37.9
+2023-02-27,HoReCa,Paper Boat,170,68.7,32.4
+2023-02-27,Modern Trade,B Natural,439,67.8,40.8
+2023-02-27,Modern Trade,Minute Maid,637,70.6,59.2
+2023-02-27,Q Commerce,Minute Maid,325,65.1,36.3
+2023-02-27,Q Commerce,Tropicana,570,70.9,63.7
+2023-03-06,E Commerce,Amazon Solimo,248,72.6,18.5
+2023-03-06,E Commerce,Minute Maid,420,71.0,31.4
+2023-03-06,E Commerce,Real Fruit Juice,668,77.1,50.0
+2023-03-06,General Trade,Minute Maid,525,71.1,53.8
+2023-03-06,General Trade,Paper Boat,451,66.5,46.2
+2023-03-06,HoReCa,B Natural,269,77.5,29.1
+2023-03-06,HoReCa,Minute Maid,368,67.5,39.8
+2023-03-06,HoReCa,Paper Boat,287,72.6,31.0
+2023-03-06,Modern Trade,B Natural,367,64.1,37.9
+2023-03-06,Modern Trade,Minute Maid,602,69.0,62.1
+2023-03-06,Q Commerce,Minute Maid,231,70.7,35.2
+2023-03-06,Q Commerce,Tropicana,425,76.9,64.8
+2023-03-13,E Commerce,Amazon Solimo,255,66.1,19.1
+2023-03-13,E Commerce,Minute Maid,404,67.9,30.3
+2023-03-13,E Commerce,Real Fruit Juice,675,76.0,50.6
+2023-03-13,General Trade,Minute Maid,340,68.0,53.1
+2023-03-13,General Trade,Paper Boat,300,74.5,46.9
+2023-03-13,HoReCa,B Natural,288,74.9,30.4
+2023-03-13,HoReCa,Minute Maid,400,73.6,42.3
+2023-03-13,HoReCa,Paper Boat,258,72.4,27.3
+2023-03-13,Modern Trade,B Natural,434,79.0,40.4
+2023-03-13,Modern Trade,Minute Maid,640,65.0,59.6
+2023-03-13,Q Commerce,Minute Maid,284,69.5,36.6
+2023-03-13,Q Commerce,Tropicana,492,69.7,63.4
+2023-03-20,E Commerce,Amazon Solimo,176,58.0,19.0
+2023-03-20,E Commerce,Minute Maid,297,69.3,32.1
+2023-03-20,E Commerce,Real Fruit Juice,453,60.0,48.9
+2023-03-20,General Trade,Minute Maid,291,71.0,53.3
+2023-03-20,General Trade,Paper Boat,255,70.7,46.7
+2023-03-20,HoReCa,B Natural,213,71.0,29.2
+2023-03-20,HoReCa,Minute Maid,317,68.3,43.4
+2023-03-20,HoReCa,Paper Boat,200,66.7,27.4
+2023-03-20,Modern Trade,B Natural,305,72.5,40.9
+2023-03-20,Modern Trade,Minute Maid,441,69.6,59.1
+2023-03-20,Q Commerce,Minute Maid,315,74.9,35.7
+2023-03-20,Q Commerce,Tropicana,568,72.6,64.3
+2023-03-27,E Commerce,Amazon Solimo,163,61.8,20.0
+2023-03-27,E Commerce,Minute Maid,250,64.9,30.6
+2023-03-27,E Commerce,Real Fruit Juice,403,64.7,49.4
+2023-03-27,General Trade,Minute Maid,965,77.2,56.1
+2023-03-27,General Trade,Paper Boat,754,72.8,43.9
+2023-03-27,HoReCa,B Natural,130,68.8,29.2
+2023-03-27,HoReCa,Minute Maid,186,78.6,41.7
+2023-03-27,HoReCa,Paper Boat,129,74.1,29.0
+2023-03-27,Modern Trade,B Natural,364,78.3,37.7
+2023-03-27,Modern Trade,Minute Maid,602,72.7,62.3
+2023-03-27,Q Commerce,Minute Maid,179,64.2,37.1
+2023-03-27,Q Commerce,Tropicana,302,75.2,62.9
+2023-04-03,E Commerce,Amazon Solimo,179,71.7,17.9
+2023-04-03,E Commerce,Minute Maid,306,66.9,30.6
+2023-04-03,E Commerce,Real Fruit Juice,515,62.9,51.5
+2023-04-03,General Trade,Minute Maid,493,72.8,53.2
+2023-04-03,General Trade,Paper Boat,434,67.1,46.8
+2023-04-03,HoReCa,B Natural,217,76.2,30.6
+2023-04-03,HoReCa,Minute Maid,295,71.2,41.6
+2023-04-03,HoReCa,Paper Boat,198,66.0,27.8
+2023-04-03,Modern Trade,B Natural,381,69.2,40.1
+2023-04-03,Modern Trade,Minute Maid,568,67.6,59.9
+2023-04-03,Q Commerce,Minute Maid,264,72.8,37.0
+2023-04-03,Q Commerce,Tropicana,450,75.4,63.0
+2023-04-10,E Commerce,Amazon Solimo,186,70.6,16.1
+2023-04-10,E Commerce,Minute Maid,377,70.2,32.6
+2023-04-10,E Commerce,Real Fruit Juice,593,63.0,51.3
+2023-04-10,General Trade,Minute Maid,717,65.8,54.9
+2023-04-10,General Trade,Paper Boat,589,71.7,45.1
+2023-04-10,HoReCa,B Natural,134,78.2,27.2
+2023-04-10,HoReCa,Minute Maid,210,67.8,42.7
+2023-04-10,HoReCa,Paper Boat,148,69.1,30.1
+2023-04-10,Modern Trade,B Natural,381,70.4,39.3
+2023-04-10,Modern Trade,Minute Maid,587,81.6,60.7
+2023-04-10,Q Commerce,Minute Maid,280,71.7,34.0
+2023-04-10,Q Commerce,Tropicana,544,79.2,66.0
+2023-04-17,E Commerce,Amazon Solimo,323,68.9,19.9
+2023-04-17,E Commerce,Minute Maid,507,72.2,31.2
+2023-04-17,E Commerce,Real Fruit Juice,797,74.4,49.0
+2023-04-17,General Trade,Minute Maid,447,68.9,51.3
+2023-04-17,General Trade,Paper Boat,423,71.3,48.7
+2023-04-17,HoReCa,B Natural,211,70.8,29.9
+2023-04-17,HoReCa,Minute Maid,294,73.9,41.6
+2023-04-17,HoReCa,Paper Boat,202,67.3,28.5
+2023-04-17,Modern Trade,B Natural,313,69.0,41.8
+2023-04-17,Modern Trade,Minute Maid,435,68.3,58.2
+2023-04-17,Q Commerce,Minute Maid,444,74.2,37.4
+2023-04-17,Q Commerce,Tropicana,744,75.2,62.6
+2023-04-24,E Commerce,Amazon Solimo,264,56.2,17.9
+2023-04-24,E Commerce,Minute Maid,430,72.2,29.2
+2023-04-24,E Commerce,Real Fruit Juice,777,63.1,52.8
+2023-04-24,General Trade,Minute Maid,353,67.5,55.9
+2023-04-24,General Trade,Paper Boat,278,66.2,44.1
+2023-04-24,HoReCa,B Natural,191,72.3,29.9
+2023-04-24,HoReCa,Minute Maid,264,65.0,41.3
+2023-04-24,HoReCa,Paper Boat,184,69.0,28.8
+2023-04-24,Modern Trade,B Natural,242,74.1,38.5
+2023-04-24,Modern Trade,Minute Maid,387,77.4,61.5
+2023-04-24,Q Commerce,Minute Maid,301,76.0,35.8
+2023-04-24,Q Commerce,Tropicana,540,85.8,64.2
+2023-05-01,E Commerce,Amazon Solimo,450,62.2,22.5
+2023-05-01,E Commerce,Minute Maid,579,61.0,28.9
+2023-05-01,E Commerce,Real Fruit Juice,973,65.4,48.6
+2023-05-01,General Trade,Minute Maid,256,69.9,55.1
+2023-05-01,General Trade,Paper Boat,209,72.6,44.9
+2023-05-01,HoReCa,B Natural,202,74.8,28.3
+2023-05-01,HoReCa,Minute Maid,299,64.8,42.0
+2023-05-01,HoReCa,Paper Boat,211,73.6,29.7
+2023-05-01,Modern Trade,B Natural,332,68.5,39.2
+2023-05-01,Modern Trade,Minute Maid,515,73.5,60.8
+2023-05-01,Q Commerce,Minute Maid,285,65.4,36.4
+2023-05-01,Q Commerce,Tropicana,497,74.5,63.6
+2023-05-08,E Commerce,Amazon Solimo,567,71.9,18.6
+2023-05-08,E Commerce,Minute Maid,968,74.6,31.7
+2023-05-08,E Commerce,Real Fruit Juice,1521,69.7,49.8
+2023-05-08,General Trade,Minute Maid,602,66.1,53.1
+2023-05-08,General Trade,Paper Boat,531,68.2,46.9
+2023-05-08,HoReCa,B Natural,134,65.2,30.0
+2023-05-08,HoReCa,Minute Maid,175,67.3,39.0
+2023-05-08,HoReCa,Paper Boat,138,77.4,30.9
+2023-05-08,Modern Trade,B Natural,410,67.3,38.3
+2023-05-08,Modern Trade,Minute Maid,661,72.9,61.7
+2023-05-08,Q Commerce,Minute Maid,333,66.9,37.5
+2023-05-08,Q Commerce,Tropicana,555,73.2,62.5
+2023-05-15,E Commerce,Amazon Solimo,308,64.2,19.6
+2023-05-15,E Commerce,Minute Maid,455,74.7,28.9
+2023-05-15,E Commerce,Real Fruit Juice,812,72.2,51.6
+2023-05-15,General Trade,Minute Maid,576,73.1,53.8
+2023-05-15,General Trade,Paper Boat,494,76.4,46.2
+2023-05-15,HoReCa,B Natural,179,76.8,30.2
+2023-05-15,HoReCa,Minute Maid,243,67.3,41.1
+2023-05-15,HoReCa,Paper Boat,170,71.9,28.8
+2023-05-15,Modern Trade,B Natural,311,73.4,39.0
+2023-05-15,Modern Trade,Minute Maid,486,65.0,61.0
+2023-05-15,Q Commerce,Minute Maid,224,75.2,35.7
+2023-05-15,Q Commerce,Tropicana,404,77.3,64.3
+2023-05-22,E Commerce,Amazon Solimo,166,54.7,18.2
+2023-05-22,E Commerce,Minute Maid,286,71.4,31.3
+2023-05-22,E Commerce,Real Fruit Juice,462,61.4,50.5
+2023-05-22,General Trade,Minute Maid,765,72.5,50.4
+2023-05-22,General Trade,Paper Boat,752,73.0,49.6
+2023-05-22,HoReCa,B Natural,154,67.6,27.8
+2023-05-22,HoReCa,Minute Maid,231,54.2,41.9
+2023-05-22,HoReCa,Paper Boat,167,66.2,30.2
+2023-05-22,Modern Trade,B Natural,295,69.6,37.6
+2023-05-22,Modern Trade,Minute Maid,490,71.3,62.4
+2023-05-22,Q Commerce,Minute Maid,256,70.5,37.2
+2023-05-22,Q Commerce,Tropicana,433,71.9,62.8
+2023-05-29,E Commerce,Amazon Solimo,192,60.2,16.6
+2023-05-29,E Commerce,Minute Maid,335,59.0,29.0
+2023-05-29,E Commerce,Real Fruit Juice,627,66.7,54.4
+2023-05-29,General Trade,Minute Maid,437,69.4,57.5
+2023-05-29,General Trade,Paper Boat,324,61.7,42.5
+2023-05-29,HoReCa,B Natural,206,66.9,30.0
+2023-05-29,HoReCa,Minute Maid,279,64.8,40.7
+2023-05-29,HoReCa,Paper Boat,201,72.6,29.3
+2023-05-29,Modern Trade,B Natural,358,75.0,37.3
+2023-05-29,Modern Trade,Minute Maid,600,65.8,62.7
+2023-05-29,Q Commerce,Minute Maid,310,66.1,40.3
+2023-05-29,Q Commerce,Tropicana,459,79.3,59.7
+2023-06-05,E Commerce,Amazon Solimo,180,64.0,16.3
+2023-06-05,E Commerce,Minute Maid,379,72.8,34.4
+2023-06-05,E Commerce,Real Fruit Juice,544,70.6,49.3
+2023-06-05,General Trade,Minute Maid,799,79.0,53.3
+2023-06-05,General Trade,Paper Boat,700,74.1,46.7
+2023-06-05,HoReCa,B Natural,165,72.7,30.2
+2023-06-05,HoReCa,Minute Maid,213,61.7,39.0
+2023-06-05,HoReCa,Paper Boat,168,65.4,30.8
+2023-06-05,Modern Trade,B Natural,303,82.5,36.4
+2023-06-05,Modern Trade,Minute Maid,531,80.6,63.6
+2023-06-05,Q Commerce,Minute Maid,416,72.4,36.0
+2023-06-05,Q Commerce,Tropicana,740,74.0,64.0
+2023-06-12,E Commerce,Amazon Solimo,304,70.9,16.8
+2023-06-12,E Commerce,Minute Maid,559,72.2,30.9
+2023-06-12,E Commerce,Real Fruit Juice,947,70.0,52.3
+2023-06-12,General Trade,Minute Maid,514,72.2,49.7
+2023-06-12,General Trade,Paper Boat,520,72.0,50.3
+2023-06-12,HoReCa,B Natural,213,75.7,29.9
+2023-06-12,HoReCa,Minute Maid,283,74.5,39.6
+2023-06-12,HoReCa,Paper Boat,217,75.1,30.5
+2023-06-12,Modern Trade,B Natural,603,65.6,41.1
+2023-06-12,Modern Trade,Minute Maid,863,61.2,58.9
+2023-06-12,Q Commerce,Minute Maid,221,63.4,39.1
+2023-06-12,Q Commerce,Tropicana,345,71.3,60.9
+2023-06-19,E Commerce,Amazon Solimo,302,65.2,19.2
+2023-06-19,E Commerce,Minute Maid,492,66.2,31.3
+2023-06-19,E Commerce,Real Fruit Juice,780,70.0,49.5
+2023-06-19,General Trade,Minute Maid,559,67.5,53.2
+2023-06-19,General Trade,Paper Boat,492,67.4,46.8
+2023-06-19,HoReCa,B Natural,270,77.6,27.6
+2023-06-19,HoReCa,Minute Maid,409,73.8,42.0
+2023-06-19,HoReCa,Paper Boat,296,75.9,30.4
+2023-06-19,Modern Trade,B Natural,481,71.2,40.4
+2023-06-19,Modern Trade,Minute Maid,710,64.9,59.6
+2023-06-19,Q Commerce,Minute Maid,245,68.1,36.1
+2023-06-19,Q Commerce,Tropicana,435,78.1,63.9
+2023-06-26,E Commerce,Amazon Solimo,181,67.6,17.9
+2023-06-26,E Commerce,Minute Maid,315,67.9,31.1
+2023-06-26,E Commerce,Real Fruit Juice,516,59.5,51.0
+2023-06-26,General Trade,Minute Maid,525,68.4,52.3
+2023-06-26,General Trade,Paper Boat,478,75.4,47.7
+2023-06-26,HoReCa,B Natural,118,68.2,31.1
+2023-06-26,HoReCa,Minute Maid,161,70.8,42.3
+2023-06-26,HoReCa,Paper Boat,101,69.9,26.6
+2023-06-26,Modern Trade,B Natural,528,73.2,38.6
+2023-06-26,Modern Trade,Minute Maid,841,64.9,61.4
+2023-06-26,Q Commerce,Minute Maid,361,78.8,39.7
+2023-06-26,Q Commerce,Tropicana,549,73.8,60.3
+2023-07-03,E Commerce,Amazon Solimo,302,65.4,18.1
+2023-07-03,E Commerce,Minute Maid,515,62.0,30.8
+2023-07-03,E Commerce,Real Fruit Juice,855,69.4,51.1
+2023-07-03,General Trade,Minute Maid,325,63.5,51.7
+2023-07-03,General Trade,Paper Boat,303,67.2,48.3
+2023-07-03,HoReCa,B Natural,179,69.9,30.3
+2023-07-03,HoReCa,Minute Maid,245,71.4,41.3
+2023-07-03,HoReCa,Paper Boat,168,73.4,28.4
+2023-07-03,Modern Trade,B Natural,451,81.1,40.1
+2023-07-03,Modern Trade,Minute Maid,675,74.2,59.9
+2023-07-03,Q Commerce,Minute Maid,187,75.5,36.6
+2023-07-03,Q Commerce,Tropicana,325,71.2,63.4
+2023-07-10,E Commerce,Amazon Solimo,181,75.7,18.2
+2023-07-10,E Commerce,Minute Maid,302,73.4,30.4
+2023-07-10,E Commerce,Real Fruit Juice,509,66.4,51.4
+2023-07-10,General Trade,Minute Maid,365,71.2,55.0
+2023-07-10,General Trade,Paper Boat,299,63.7,45.0
+2023-07-10,HoReCa,B Natural,222,66.7,32.4
+2023-07-10,HoReCa,Minute Maid,271,65.6,39.5
+2023-07-10,HoReCa,Paper Boat,193,67.1,28.1
+2023-07-10,Modern Trade,B Natural,693,75.3,38.0
+2023-07-10,Modern Trade,Minute Maid,1133,68.2,62.0
+2023-07-10,Q Commerce,Minute Maid,307,68.9,33.9
+2023-07-10,Q Commerce,Tropicana,597,77.0,66.1
+2023-07-17,E Commerce,Amazon Solimo,213,67.1,17.0
+2023-07-17,E Commerce,Minute Maid,396,68.1,31.6
+2023-07-17,E Commerce,Real Fruit Juice,643,75.5,51.3
+2023-07-17,General Trade,Minute Maid,456,75.7,51.6
+2023-07-17,General Trade,Paper Boat,427,76.8,48.4
+2023-07-17,HoReCa,B Natural,227,61.3,29.5
+2023-07-17,HoReCa,Minute Maid,308,67.8,39.9
+2023-07-17,HoReCa,Paper Boat,237,69.6,30.7
+2023-07-17,Modern Trade,B Natural,501,74.2,39.8
+2023-07-17,Modern Trade,Minute Maid,758,66.9,60.2
+2023-07-17,Q Commerce,Minute Maid,196,69.0,38.5
+2023-07-17,Q Commerce,Tropicana,314,78.8,61.5
+2023-07-24,E Commerce,Amazon Solimo,275,72.6,20.2
+2023-07-24,E Commerce,Minute Maid,394,79.4,28.9
+2023-07-24,E Commerce,Real Fruit Juice,695,65.7,50.9
+2023-07-24,General Trade,Minute Maid,335,74.0,53.0
+2023-07-24,General Trade,Paper Boat,297,69.1,47.0
+2023-07-24,HoReCa,B Natural,277,67.6,27.9
+2023-07-24,HoReCa,Minute Maid,402,81.5,40.5
+2023-07-24,HoReCa,Paper Boat,314,74.4,31.6
+2023-07-24,Modern Trade,B Natural,993,70.6,39.7
+2023-07-24,Modern Trade,Minute Maid,1510,69.3,60.3
+2023-07-24,Q Commerce,Minute Maid,370,72.1,38.1
+2023-07-24,Q Commerce,Tropicana,601,71.5,61.9
+2023-07-31,E Commerce,Amazon Solimo,303,54.9,20.3
+2023-07-31,E Commerce,Minute Maid,494,60.5,33.2
+2023-07-31,E Commerce,Real Fruit Juice,693,76.0,46.5
+2023-07-31,General Trade,Minute Maid,457,67.6,54.6
+2023-07-31,General Trade,Paper Boat,379,74.1,45.4
+2023-07-31,HoReCa,B Natural,209,61.4,30.7
+2023-07-31,HoReCa,Minute Maid,261,74.8,38.5
+2023-07-31,HoReCa,Paper Boat,209,74.1,30.8
+2023-07-31,Modern Trade,B Natural,884,72.7,38.4
+2023-07-31,Modern Trade,Minute Maid,1420,66.4,61.6
+2023-07-31,Q Commerce,Minute Maid,323,72.6,37.9
+2023-07-31,Q Commerce,Tropicana,530,70.3,62.1
+2023-08-07,E Commerce,Amazon Solimo,281,67.0,19.8
+2023-08-07,E Commerce,Minute Maid,418,62.7,29.4
+2023-08-07,E Commerce,Real Fruit Juice,721,65.6,50.8
+2023-08-07,General Trade,Minute Maid,380,71.8,53.4
+2023-08-07,General Trade,Paper Boat,331,65.6,46.6
+2023-08-07,HoReCa,B Natural,245,80.4,32.3
+2023-08-07,HoReCa,Minute Maid,300,76.0,39.7
+2023-08-07,HoReCa,Paper Boat,212,69.3,28.0
+2023-08-07,Modern Trade,B Natural,678,80.5,39.9
+2023-08-07,Modern Trade,Minute Maid,1022,64.2,60.1
+2023-08-07,Q Commerce,Minute Maid,273,74.8,36.1
+2023-08-07,Q Commerce,Tropicana,483,86.1,63.9
+2023-08-14,E Commerce,Amazon Solimo,208,63.7,18.7
+2023-08-14,E Commerce,Minute Maid,369,72.0,33.2
+2023-08-14,E Commerce,Real Fruit Juice,536,74.2,48.1
+2023-08-14,General Trade,Minute Maid,436,72.1,51.6
+2023-08-14,General Trade,Paper Boat,408,74.1,48.4
+2023-08-14,HoReCa,B Natural,270,83.3,28.8
+2023-08-14,HoReCa,Minute Maid,352,64.1,37.5
+2023-08-14,HoReCa,Paper Boat,316,78.0,33.7
+2023-08-14,Modern Trade,B Natural,250,73.8,37.5
+2023-08-14,Modern Trade,Minute Maid,417,72.1,62.5
+2023-08-14,Q Commerce,Minute Maid,216,65.5,36.5
+2023-08-14,Q Commerce,Tropicana,375,79.0,63.5
+2023-08-21,E Commerce,Amazon Solimo,279,63.2,19.3
+2023-08-21,E Commerce,Minute Maid,442,61.5,30.6
+2023-08-21,E Commerce,Real Fruit Juice,724,72.6,50.1
+2023-08-21,General Trade,Minute Maid,335,68.0,54.2
+2023-08-21,General Trade,Paper Boat,283,69.3,45.8
+2023-08-21,HoReCa,B Natural,186,83.1,28.8
+2023-08-21,HoReCa,Minute Maid,251,59.4,38.9
+2023-08-21,HoReCa,Paper Boat,209,73.2,32.4
+2023-08-21,Modern Trade,B Natural,555,72.8,38.0
+2023-08-21,Modern Trade,Minute Maid,906,69.4,62.0
+2023-08-21,Q Commerce,Minute Maid,381,72.7,38.4
+2023-08-21,Q Commerce,Tropicana,612,82.2,61.6
+2023-08-28,E Commerce,Amazon Solimo,293,62.1,17.0
+2023-08-28,E Commerce,Minute Maid,511,62.7,29.7
+2023-08-28,E Commerce,Real Fruit Juice,918,71.4,53.3
+2023-08-28,General Trade,Minute Maid,448,69.8,54.1
+2023-08-28,General Trade,Paper Boat,380,72.5,45.9
+2023-08-28,HoReCa,B Natural,184,78.2,30.5
+2023-08-28,HoReCa,Minute Maid,249,67.3,41.3
+2023-08-28,HoReCa,Paper Boat,170,71.3,28.2
+2023-08-28,Modern Trade,B Natural,569,78.7,37.7
+2023-08-28,Modern Trade,Minute Maid,940,71.3,62.3
+2023-08-28,Q Commerce,Minute Maid,237,69.0,37.3
+2023-08-28,Q Commerce,Tropicana,399,71.5,62.7
+2023-09-04,E Commerce,Amazon Solimo,221,59.1,18.9
+2023-09-04,E Commerce,Minute Maid,375,75.8,32.1
+2023-09-04,E Commerce,Real Fruit Juice,573,67.2,49.0
+2023-09-04,General Trade,Minute Maid,521,73.5,53.7
+2023-09-04,General Trade,Paper Boat,449,67.8,46.3
+2023-09-04,HoReCa,B Natural,148,66.8,33.8
+2023-09-04,HoReCa,Minute Maid,153,71.5,35.0
+2023-09-04,HoReCa,Paper Boat,137,74.2,31.3
+2023-09-04,Modern Trade,B Natural,529,73.1,37.6
+2023-09-04,Modern Trade,Minute Maid,878,68.5,62.4
+2023-09-04,Q Commerce,Minute Maid,430,67.9,36.2
+2023-09-04,Q Commerce,Tropicana,757,69.5,63.8
+2023-09-11,E Commerce,Amazon Solimo,228,72.4,19.2
+2023-09-11,E Commerce,Minute Maid,396,60.5,33.4
+2023-09-11,E Commerce,Real Fruit Juice,561,70.1,47.3
+2023-09-11,General Trade,Minute Maid,317,61.3,55.1
+2023-09-11,General Trade,Paper Boat,258,74.5,44.9
+2023-09-11,HoReCa,B Natural,301,68.9,30.2
+2023-09-11,HoReCa,Minute Maid,417,76.8,41.9
+2023-09-11,HoReCa,Paper Boat,279,73.7,28.0
+2023-09-11,Modern Trade,B Natural,454,73.6,38.8
+2023-09-11,Modern Trade,Minute Maid,715,60.1,61.2
+2023-09-11,Q Commerce,Minute Maid,432,69.1,37.7
+2023-09-11,Q Commerce,Tropicana,715,70.8,62.3
+2023-09-18,E Commerce,Amazon Solimo,122,69.6,17.0
+2023-09-18,E Commerce,Minute Maid,220,68.2,30.6
+2023-09-18,E Commerce,Real Fruit Juice,378,55.9,52.5
+2023-09-18,General Trade,Minute Maid,441,75.3,54.6
+2023-09-18,General Trade,Paper Boat,367,67.6,45.4
+2023-09-18,HoReCa,B Natural,189,76.0,31.3
+2023-09-18,HoReCa,Minute Maid,243,74.6,40.3
+2023-09-18,HoReCa,Paper Boat,171,72.9,28.4
+2023-09-18,Modern Trade,B Natural,243,69.9,38.9
+2023-09-18,Modern Trade,Minute Maid,382,71.5,61.1
+2023-09-18,Q Commerce,Minute Maid,243,64.6,36.3
+2023-09-18,Q Commerce,Tropicana,427,72.3,63.7
+2023-09-25,E Commerce,Amazon Solimo,113,68.0,17.9
+2023-09-25,E Commerce,Minute Maid,194,77.4,30.9
+2023-09-25,E Commerce,Real Fruit Juice,321,62.1,51.2
+2023-09-25,General Trade,Minute Maid,470,75.6,54.7
+2023-09-25,General Trade,Paper Boat,388,71.6,45.3
+2023-09-25,HoReCa,B Natural,211,72.2,33.6
+2023-09-25,HoReCa,Minute Maid,250,65.1,39.8
+2023-09-25,HoReCa,Paper Boat,167,67.2,26.6
+2023-09-25,Modern Trade,B Natural,615,68.9,39.4
+2023-09-25,Modern Trade,Minute Maid,946,62.7,60.6
+2023-09-25,Q Commerce,Minute Maid,310,65.9,36.0
+2023-09-25,Q Commerce,Tropicana,551,74.9,64.0
+2023-10-02,E Commerce,Amazon Solimo,321,61.5,19.8
+2023-10-02,E Commerce,Minute Maid,508,72.8,31.3
+2023-10-02,E Commerce,Real Fruit Juice,792,53.2,48.9
+2023-10-02,General Trade,Minute Maid,411,72.4,54.0
+2023-10-02,General Trade,Paper Boat,351,72.7,46.0
+2023-10-02,HoReCa,B Natural,292,68.9,29.7
+2023-10-02,HoReCa,Minute Maid,415,72.3,42.3
+2023-10-02,HoReCa,Paper Boat,275,69.0,28.0
+2023-10-02,Modern Trade,B Natural,344,62.9,38.7
+2023-10-02,Modern Trade,Minute Maid,543,76.4,61.3
+2023-10-02,Q Commerce,Minute Maid,291,75.2,36.9
+2023-10-02,Q Commerce,Tropicana,498,78.1,63.1
+2023-10-09,E Commerce,Amazon Solimo,212,57.1,16.1
+2023-10-09,E Commerce,Minute Maid,434,74.4,32.9
+2023-10-09,E Commerce,Real Fruit Juice,675,57.2,51.1
+2023-10-09,General Trade,Minute Maid,664,69.0,51.3
+2023-10-09,General Trade,Paper Boat,631,66.3,48.7
+2023-10-09,HoReCa,B Natural,243,67.6,31.9
+2023-10-09,HoReCa,Minute Maid,307,70.2,40.4
+2023-10-09,HoReCa,Paper Boat,210,68.3,27.6
+2023-10-09,Modern Trade,B Natural,819,76.9,39.3
+2023-10-09,Modern Trade,Minute Maid,1264,79.0,60.7
+2023-10-09,Q Commerce,Minute Maid,381,75.9,36.2
+2023-10-09,Q Commerce,Tropicana,672,79.1,63.8
+2023-10-16,E Commerce,Amazon Solimo,209,63.2,19.8
+2023-10-16,E Commerce,Minute Maid,310,62.8,29.4
+2023-10-16,E Commerce,Real Fruit Juice,535,69.3,50.8
+2023-10-16,General Trade,Minute Maid,659,69.0,54.9
+2023-10-16,General Trade,Paper Boat,542,73.0,45.1
+2023-10-16,HoReCa,B Natural,204,69.2,28.3
+2023-10-16,HoReCa,Minute Maid,288,77.4,40.1
+2023-10-16,HoReCa,Paper Boat,227,75.8,31.6
+2023-10-16,Modern Trade,B Natural,430,68.6,40.5
+2023-10-16,Modern Trade,Minute Maid,631,69.0,59.5
+2023-10-16,Q Commerce,Minute Maid,282,70.6,36.7
+2023-10-16,Q Commerce,Tropicana,487,75.0,63.3
+2023-10-23,E Commerce,Amazon Solimo,276,68.0,21.7
+2023-10-23,E Commerce,Minute Maid,390,75.4,30.7
+2023-10-23,E Commerce,Real Fruit Juice,604,61.1,47.6
+2023-10-23,General Trade,Minute Maid,590,71.0,52.4
+2023-10-23,General Trade,Paper Boat,536,70.2,47.6
+2023-10-23,HoReCa,B Natural,247,78.2,30.8
+2023-10-23,HoReCa,Minute Maid,332,75.0,41.4
+2023-10-23,HoReCa,Paper Boat,222,64.2,27.7
+2023-10-23,Modern Trade,B Natural,1063,74.9,40.3
+2023-10-23,Modern Trade,Minute Maid,1575,63.9,59.7
+2023-10-23,Q Commerce,Minute Maid,193,67.2,34.7
+2023-10-23,Q Commerce,Tropicana,363,84.3,65.3
+2023-10-30,E Commerce,Amazon Solimo,228,59.5,18.3
+2023-10-30,E Commerce,Minute Maid,384,60.5,30.8
+2023-10-30,E Commerce,Real Fruit Juice,635,74.4,50.9
+2023-10-30,General Trade,Minute Maid,687,69.3,54.3
+2023-10-30,General Trade,Paper Boat,578,74.1,45.7
+2023-10-30,HoReCa,B Natural,175,70.4,29.5
+2023-10-30,HoReCa,Minute Maid,233,66.0,39.2
+2023-10-30,HoReCa,Paper Boat,187,73.9,31.4
+2023-10-30,Modern Trade,B Natural,345,79.7,40.6
+2023-10-30,Modern Trade,Minute Maid,504,77.7,59.4
+2023-10-30,Q Commerce,Minute Maid,332,71.5,37.6
+2023-10-30,Q Commerce,Tropicana,551,69.4,62.4
+2023-11-06,E Commerce,Amazon Solimo,288,73.8,18.8
+2023-11-06,E Commerce,Minute Maid,483,67.0,31.6
+2023-11-06,E Commerce,Real Fruit Juice,758,57.8,49.6
+2023-11-06,General Trade,Minute Maid,847,70.2,53.4
+2023-11-06,General Trade,Paper Boat,738,72.9,46.6
+2023-11-06,HoReCa,B Natural,244,69.3,32.5
+2023-11-06,HoReCa,Minute Maid,291,70.2,38.8
+2023-11-06,HoReCa,Paper Boat,216,65.8,28.8
+2023-11-06,Modern Trade,B Natural,585,68.8,41.2
+2023-11-06,Modern Trade,Minute Maid,836,70.4,58.8
+2023-11-06,Q Commerce,Minute Maid,336,68.2,39.5
+2023-11-06,Q Commerce,Tropicana,515,79.2,60.5
+2023-11-13,E Commerce,Amazon Solimo,152,63.9,19.4
+2023-11-13,E Commerce,Minute Maid,239,67.9,30.5
+2023-11-13,E Commerce,Real Fruit Juice,394,71.0,50.1
+2023-11-13,General Trade,Minute Maid,695,76.8,54.0
+2023-11-13,General Trade,Paper Boat,591,69.0,46.0
+2023-11-13,HoReCa,B Natural,122,75.3,29.1
+2023-11-13,HoReCa,Minute Maid,171,69.9,40.9
+2023-11-13,HoReCa,Paper Boat,126,65.7,30.0
+2023-11-13,Modern Trade,B Natural,369,77.2,39.7
+2023-11-13,Modern Trade,Minute Maid,560,66.4,60.3
+2023-11-13,Q Commerce,Minute Maid,227,64.8,38.2
+2023-11-13,Q Commerce,Tropicana,366,84.6,61.8
+2023-11-20,E Commerce,Amazon Solimo,179,68.7,19.6
+2023-11-20,E Commerce,Minute Maid,256,73.1,27.9
+2023-11-20,E Commerce,Real Fruit Juice,481,58.6,52.5
+2023-11-20,General Trade,Minute Maid,617,70.7,52.9
+2023-11-20,General Trade,Paper Boat,549,67.5,47.1
+2023-11-20,HoReCa,B Natural,279,73.9,28.9
+2023-11-20,HoReCa,Minute Maid,380,70.1,39.3
+2023-11-20,HoReCa,Paper Boat,307,74.5,31.7
+2023-11-20,Modern Trade,B Natural,362,69.5,42.0
+2023-11-20,Modern Trade,Minute Maid,500,80.6,58.0
+2023-11-20,Q Commerce,Minute Maid,227,77.5,36.8
+2023-11-20,Q Commerce,Tropicana,389,75.8,63.2
+2023-11-27,E Commerce,Amazon Solimo,141,71.1,19.7
+2023-11-27,E Commerce,Minute Maid,238,71.6,33.4
+2023-11-27,E Commerce,Real Fruit Juice,335,60.8,46.9
+2023-11-27,General Trade,Minute Maid,291,65.0,52.3
+2023-11-27,General Trade,Paper Boat,266,74.6,47.7
+2023-11-27,HoReCa,B Natural,164,69.9,33.1
+2023-11-27,HoReCa,Minute Maid,178,80.1,35.9
+2023-11-27,HoReCa,Paper Boat,154,66.5,31.0
+2023-11-27,Modern Trade,B Natural,371,69.9,39.5
+2023-11-27,Modern Trade,Minute Maid,568,82.0,60.5
+2023-11-27,Q Commerce,Minute Maid,378,75.0,33.7
+2023-11-27,Q Commerce,Tropicana,743,63.5,66.3
+2023-12-04,E Commerce,Amazon Solimo,143,69.2,17.5
+2023-12-04,E Commerce,Minute Maid,262,77.5,31.9
+2023-12-04,E Commerce,Real Fruit Juice,416,69.9,50.6
+2023-12-04,General Trade,Minute Maid,792,66.3,54.1
+2023-12-04,General Trade,Paper Boat,671,73.3,45.9
+2023-12-04,HoReCa,B Natural,303,74.3,28.9
+2023-12-04,HoReCa,Minute Maid,433,69.2,41.3
+2023-12-04,HoReCa,Paper Boat,312,71.6,29.8
+2023-12-04,Modern Trade,B Natural,444,75.1,39.3
+2023-12-04,Modern Trade,Minute Maid,685,72.4,60.7
+2023-12-04,Q Commerce,Minute Maid,414,66.0,36.7
+2023-12-04,Q Commerce,Tropicana,714,71.2,63.3
+2023-12-11,E Commerce,Amazon Solimo,308,65.0,19.8
+2023-12-11,E Commerce,Minute Maid,483,76.5,31.1
+2023-12-11,E Commerce,Real Fruit Juice,760,70.2,49.0
+2023-12-11,General Trade,Minute Maid,272,74.9,50.7
+2023-12-11,General Trade,Paper Boat,265,60.4,49.3
+2023-12-11,HoReCa,B Natural,148,71.8,30.0
+2023-12-11,HoReCa,Minute Maid,195,72.4,39.3
+2023-12-11,HoReCa,Paper Boat,152,65.2,30.7
+2023-12-11,Modern Trade,B Natural,708,74.9,40.0
+2023-12-11,Modern Trade,Minute Maid,1063,69.7,60.0
+2023-12-11,Q Commerce,Minute Maid,588,68.0,35.3
+2023-12-11,Q Commerce,Tropicana,1076,68.4,64.7
+2023-12-18,E Commerce,Amazon Solimo,171,64.1,15.9
+2023-12-18,E Commerce,Minute Maid,340,69.3,31.7
+2023-12-18,E Commerce,Real Fruit Juice,561,72.3,52.3
+2023-12-18,General Trade,Minute Maid,364,66.0,54.7
+2023-12-18,General Trade,Paper Boat,302,75.0,45.3
+2023-12-18,HoReCa,B Natural,229,66.3,29.6
+2023-12-18,HoReCa,Minute Maid,318,63.2,41.0
+2023-12-18,HoReCa,Paper Boat,228,70.7,29.4
+2023-12-18,Modern Trade,B Natural,433,76.5,41.4
+2023-12-18,Modern Trade,Minute Maid,612,60.1,58.6
+2023-12-18,Q Commerce,Minute Maid,676,74.6,37.3
+2023-12-18,Q Commerce,Tropicana,1137,71.8,62.7
+2023-12-25,E Commerce,Amazon Solimo,206,59.3,19.1
+2023-12-25,E Commerce,Minute Maid,349,64.3,32.3
+2023-12-25,E Commerce,Real Fruit Juice,525,68.4,48.6
+2023-12-25,General Trade,Minute Maid,558,67.9,52.2
+2023-12-25,General Trade,Paper Boat,511,79.3,47.8
+2023-12-25,HoReCa,B Natural,126,79.3,29.9
+2023-12-25,HoReCa,Minute Maid,169,69.3,40.2
+2023-12-25,HoReCa,Paper Boat,125,71.1,29.9
+2023-12-25,Modern Trade,B Natural,450,66.6,40.9
+2023-12-25,Modern Trade,Minute Maid,650,66.7,59.1
+2023-12-25,Q Commerce,Minute Maid,246,75.3,37.7
+2023-12-25,Q Commerce,Tropicana,405,78.2,62.3
+2024-01-01,E Commerce,Amazon Solimo,210,66.9,19.8
+2024-01-01,E Commerce,Minute Maid,327,78.1,30.9
+2024-01-01,E Commerce,Real Fruit Juice,522,63.2,49.3
+2024-01-01,General Trade,Minute Maid,806,68.5,54.9
+2024-01-01,General Trade,Paper Boat,662,66.6,45.1
+2024-01-01,HoReCa,B Natural,246,71.1,27.4
+2024-01-01,HoReCa,Minute Maid,359,72.5,40.1
+2024-01-01,HoReCa,Paper Boat,292,77.9,32.5
+2024-01-01,Modern Trade,B Natural,340,73.3,38.6
+2024-01-01,Modern Trade,Minute Maid,541,68.8,61.4
+2024-01-01,Q Commerce,Minute Maid,584,63.4,34.4
+2024-01-01,Q Commerce,Tropicana,1114,75.5,65.6
+2024-01-08,E Commerce,Amazon Solimo,256,63.5,19.4
+2024-01-08,E Commerce,Minute Maid,413,72.4,31.3
+2024-01-08,E Commerce,Real Fruit Juice,651,76.6,49.3
+2024-01-08,General Trade,Minute Maid,328,66.6,56.3
+2024-01-08,General Trade,Paper Boat,255,65.7,43.7
+2024-01-08,HoReCa,B Natural,264,65.9,31.1
+2024-01-08,HoReCa,Minute Maid,345,65.5,40.7
+2024-01-08,HoReCa,Paper Boat,239,67.8,28.2
+2024-01-08,Modern Trade,B Natural,212,73.5,43.4
+2024-01-08,Modern Trade,Minute Maid,276,62.6,56.6
+2024-01-08,Q Commerce,Minute Maid,205,84.3,36.9
+2024-01-08,Q Commerce,Tropicana,351,76.2,63.1
+2024-01-15,E Commerce,Amazon Solimo,175,66.8,18.5
+2024-01-15,E Commerce,Minute Maid,297,67.7,31.3
+2024-01-15,E Commerce,Real Fruit Juice,476,65.4,50.2
+2024-01-15,General Trade,Minute Maid,521,75.7,53.1
+2024-01-15,General Trade,Paper Boat,459,66.7,46.9
+2024-01-15,HoReCa,B Natural,217,82.3,30.5
+2024-01-15,HoReCa,Minute Maid,286,74.1,40.2
+2024-01-15,HoReCa,Paper Boat,208,72.4,29.3
+2024-01-15,Modern Trade,B Natural,384,71.7,38.8
+2024-01-15,Modern Trade,Minute Maid,606,61.3,61.2
+2024-01-15,Q Commerce,Minute Maid,356,72.9,39.7
+2024-01-15,Q Commerce,Tropicana,539,61.7,60.3
+2024-01-22,E Commerce,Amazon Solimo,294,60.1,19.1
+2024-01-22,E Commerce,Minute Maid,473,76.4,30.7
+2024-01-22,E Commerce,Real Fruit Juice,777,60.2,50.3
+2024-01-22,General Trade,Minute Maid,805,75.2,54.1
+2024-01-22,General Trade,Paper Boat,684,57.3,45.9
+2024-01-22,HoReCa,B Natural,264,65.7,30.5
+2024-01-22,HoReCa,Minute Maid,355,65.6,40.9
+2024-01-22,HoReCa,Paper Boat,247,78.1,28.5
+2024-01-22,Modern Trade,B Natural,462,76.1,39.7
+2024-01-22,Modern Trade,Minute Maid,701,63.5,60.3
+2024-01-22,Q Commerce,Minute Maid,238,75.1,35.3
+2024-01-22,Q Commerce,Tropicana,437,78.3,64.7
+2024-01-29,E Commerce,Amazon Solimo,231,57.0,20.9
+2024-01-29,E Commerce,Minute Maid,335,70.1,30.4
+2024-01-29,E Commerce,Real Fruit Juice,536,74.1,48.7
+2024-01-29,General Trade,Minute Maid,375,68.1,52.6
+2024-01-29,General Trade,Paper Boat,337,66.6,47.4
+2024-01-29,HoReCa,B Natural,255,80.5,30.6
+2024-01-29,HoReCa,Minute Maid,314,63.6,37.8
+2024-01-29,HoReCa,Paper Boat,264,73.6,31.7
+2024-01-29,Modern Trade,B Natural,429,71.9,39.8
+2024-01-29,Modern Trade,Minute Maid,649,67.5,60.2
+2024-01-29,Q Commerce,Minute Maid,307,61.5,35.9
+2024-01-29,Q Commerce,Tropicana,547,73.2,64.1
+2024-02-05,E Commerce,Amazon Solimo,275,67.3,20.6
+2024-02-05,E Commerce,Minute Maid,434,78.0,32.4
+2024-02-05,E Commerce,Real Fruit Juice,628,67.8,47.0
+2024-02-05,General Trade,Minute Maid,590,68.9,54.6
+2024-02-05,General Trade,Paper Boat,491,65.2,45.4
+2024-02-05,HoReCa,B Natural,157,75.6,30.7
+2024-02-05,HoReCa,Minute Maid,199,81.3,38.9
+2024-02-05,HoReCa,Paper Boat,155,70.8,30.4
+2024-02-05,Modern Trade,B Natural,330,76.9,41.5
+2024-02-05,Modern Trade,Minute Maid,465,75.2,58.5
+2024-02-05,Q Commerce,Minute Maid,261,62.1,37.9
+2024-02-05,Q Commerce,Tropicana,428,76.6,62.1
+2024-02-12,E Commerce,Amazon Solimo,257,63.4,17.1
+2024-02-12,E Commerce,Minute Maid,506,60.0,33.8
+2024-02-12,E Commerce,Real Fruit Juice,735,70.4,49.1
+2024-02-12,General Trade,Minute Maid,484,67.9,55.1
+2024-02-12,General Trade,Paper Boat,394,71.0,44.9
+2024-02-12,HoReCa,B Natural,176,69.7,28.8
+2024-02-12,HoReCa,Minute Maid,243,73.8,39.9
+2024-02-12,HoReCa,Paper Boat,191,71.4,31.3
+2024-02-12,Modern Trade,B Natural,295,72.1,40.5
+2024-02-12,Modern Trade,Minute Maid,434,60.8,59.5
+2024-02-12,Q Commerce,Minute Maid,595,71.8,34.0
+2024-02-12,Q Commerce,Tropicana,1155,69.0,66.0
+2024-02-19,E Commerce,Amazon Solimo,219,59.8,18.4
+2024-02-19,E Commerce,Minute Maid,423,67.4,35.5
+2024-02-19,E Commerce,Real Fruit Juice,548,70.4,46.1
+2024-02-19,General Trade,Minute Maid,658,68.6,51.5
+2024-02-19,General Trade,Paper Boat,619,68.3,48.5
+2024-02-19,HoReCa,B Natural,314,81.4,29.6
+2024-02-19,HoReCa,Minute Maid,428,74.8,40.3
+2024-02-19,HoReCa,Paper Boat,320,80.1,30.1
+2024-02-19,Modern Trade,B Natural,474,76.8,40.4
+2024-02-19,Modern Trade,Minute Maid,700,70.8,59.6
+2024-02-19,Q Commerce,Minute Maid,357,80.6,39.7
+2024-02-19,Q Commerce,Tropicana,543,69.0,60.3
+2024-02-26,E Commerce,Amazon Solimo,247,66.6,18.6
+2024-02-26,E Commerce,Minute Maid,436,62.0,32.8
+2024-02-26,E Commerce,Real Fruit Juice,647,64.1,48.6
+2024-02-26,General Trade,Minute Maid,412,80.1,53.6
+2024-02-26,General Trade,Paper Boat,357,65.7,46.4
+2024-02-26,HoReCa,B Natural,360,74.9,29.3
+2024-02-26,HoReCa,Minute Maid,514,76.3,41.8
+2024-02-26,HoReCa,Paper Boat,356,71.5,28.9
+2024-02-26,Modern Trade,B Natural,391,73.6,41.8
+2024-02-26,Modern Trade,Minute Maid,545,66.4,58.2
+2024-02-26,Q Commerce,Minute Maid,323,69.8,38.4
+2024-02-26,Q Commerce,Tropicana,519,67.4,61.6
+2024-03-04,E Commerce,Amazon Solimo,110,63.3,15.0
+2024-03-04,E Commerce,Minute Maid,238,67.2,32.4
+2024-03-04,E Commerce,Real Fruit Juice,387,70.3,52.6
+2024-03-04,General Trade,Minute Maid,401,76.8,51.8
+2024-03-04,General Trade,Paper Boat,374,73.5,48.2
+2024-03-04,HoReCa,B Natural,257,68.9,31.1
+2024-03-04,HoReCa,Minute Maid,331,67.1,40.1
+2024-03-04,HoReCa,Paper Boat,237,67.6,28.8
+2024-03-04,Modern Trade,B Natural,428,75.4,38.0
+2024-03-04,Modern Trade,Minute Maid,697,72.0,62.0
+2024-03-04,Q Commerce,Minute Maid,507,67.4,39.9
+2024-03-04,Q Commerce,Tropicana,763,83.7,60.1
+2024-03-11,E Commerce,Amazon Solimo,177,64.4,17.0
+2024-03-11,E Commerce,Minute Maid,340,72.6,32.5
+2024-03-11,E Commerce,Real Fruit Juice,528,68.0,50.5
+2024-03-11,General Trade,Minute Maid,274,79.1,54.1
+2024-03-11,General Trade,Paper Boat,233,73.7,45.9
+2024-03-11,HoReCa,B Natural,284,73.3,32.9
+2024-03-11,HoReCa,Minute Maid,349,61.8,40.4
+2024-03-11,HoReCa,Paper Boat,231,69.6,26.7
+2024-03-11,Modern Trade,B Natural,589,80.2,40.7
+2024-03-11,Modern Trade,Minute Maid,858,64.6,59.3
+2024-03-11,Q Commerce,Minute Maid,282,71.5,38.5
+2024-03-11,Q Commerce,Tropicana,451,62.3,61.5
+2024-03-18,E Commerce,Amazon Solimo,169,63.7,17.3
+2024-03-18,E Commerce,Minute Maid,318,71.1,32.5
+2024-03-18,E Commerce,Real Fruit Juice,490,64.9,50.1
+2024-03-18,General Trade,Minute Maid,562,70.1,54.4
+2024-03-18,General Trade,Paper Boat,472,66.3,45.6
+2024-03-18,HoReCa,B Natural,284,69.0,29.6
+2024-03-18,HoReCa,Minute Maid,368,71.3,38.3
+2024-03-18,HoReCa,Paper Boat,308,75.2,32.1
+2024-03-18,Modern Trade,B Natural,304,77.8,41.8
+2024-03-18,Modern Trade,Minute Maid,423,69.8,58.2
+2024-03-18,Q Commerce,Minute Maid,420,67.8,41.6
+2024-03-18,Q Commerce,Tropicana,590,74.8,58.4
+2024-03-25,E Commerce,Amazon Solimo,200,57.7,20.0
+2024-03-25,E Commerce,Minute Maid,319,73.9,32.0
+2024-03-25,E Commerce,Real Fruit Juice,479,62.7,48.0
+2024-03-25,General Trade,Minute Maid,505,65.7,52.7
+2024-03-25,General Trade,Paper Boat,453,70.0,47.3
+2024-03-25,HoReCa,B Natural,238,68.7,30.8
+2024-03-25,HoReCa,Minute Maid,314,79.1,40.5
+2024-03-25,HoReCa,Paper Boat,222,66.4,28.7
+2024-03-25,Modern Trade,B Natural,428,61.9,39.2
+2024-03-25,Modern Trade,Minute Maid,665,72.3,60.8
+2024-03-25,Q Commerce,Minute Maid,293,71.0,37.9
+2024-03-25,Q Commerce,Tropicana,479,82.5,62.1
+2024-04-01,E Commerce,Amazon Solimo,272,64.8,19.2
+2024-04-01,E Commerce,Minute Maid,430,70.1,30.4
+2024-04-01,E Commerce,Real Fruit Juice,713,65.3,50.4
+2024-04-01,General Trade,Minute Maid,478,66.7,51.6
+2024-04-01,General Trade,Paper Boat,449,68.4,48.4
+2024-04-01,HoReCa,B Natural,255,82.3,32.3
+2024-04-01,HoReCa,Minute Maid,286,73.9,36.1
+2024-04-01,HoReCa,Paper Boat,250,66.5,31.6
+2024-04-01,Modern Trade,B Natural,386,64.6,39.4
+2024-04-01,Modern Trade,Minute Maid,592,67.7,60.6
+2024-04-01,Q Commerce,Minute Maid,315,64.1,38.5
+2024-04-01,Q Commerce,Tropicana,503,79.3,61.5
+2024-04-08,E Commerce,Amazon Solimo,163,71.1,15.4
+2024-04-08,E Commerce,Minute Maid,348,69.6,32.9
+2024-04-08,E Commerce,Real Fruit Juice,549,70.3,51.8
+2024-04-08,General Trade,Minute Maid,546,63.3,54.3
+2024-04-08,General Trade,Paper Boat,460,72.2,45.7
+2024-04-08,HoReCa,B Natural,272,68.9,31.2
+2024-04-08,HoReCa,Minute Maid,330,70.7,37.9
+2024-04-08,HoReCa,Paper Boat,269,69.8,30.9
+2024-04-08,Modern Trade,B Natural,400,77.3,42.9
+2024-04-08,Modern Trade,Minute Maid,533,69.9,57.1
+2024-04-08,Q Commerce,Minute Maid,310,69.9,36.8
+2024-04-08,Q Commerce,Tropicana,534,73.9,63.2
+2024-04-15,E Commerce,Amazon Solimo,291,64.5,16.4
+2024-04-15,E Commerce,Minute Maid,562,64.2,31.5
+2024-04-15,E Commerce,Real Fruit Juice,928,69.4,52.1
+2024-04-15,General Trade,Minute Maid,409,77.7,51.1
+2024-04-15,General Trade,Paper Boat,391,68.4,48.9
+2024-04-15,HoReCa,B Natural,310,68.0,31.1
+2024-04-15,HoReCa,Minute Maid,400,78.1,40.1
+2024-04-15,HoReCa,Paper Boat,289,62.6,28.9
+2024-04-15,Modern Trade,B Natural,264,78.5,41.5
+2024-04-15,Modern Trade,Minute Maid,372,70.0,58.5
+2024-04-15,Q Commerce,Minute Maid,140,67.2,38.5
+2024-04-15,Q Commerce,Tropicana,224,79.6,61.5
+2024-04-22,E Commerce,Amazon Solimo,286,64.1,18.8
+2024-04-22,E Commerce,Minute Maid,469,72.7,30.8
+2024-04-22,E Commerce,Real Fruit Juice,770,59.6,50.5
+2024-04-22,General Trade,Minute Maid,541,78.4,52.8
+2024-04-22,General Trade,Paper Boat,483,71.3,47.2
+2024-04-22,HoReCa,B Natural,175,72.9,29.0
+2024-04-22,HoReCa,Minute Maid,258,80.1,42.7
+2024-04-22,HoReCa,Paper Boat,171,64.8,28.3
+2024-04-22,Modern Trade,B Natural,434,69.0,40.0
+2024-04-22,Modern Trade,Minute Maid,651,71.0,60.0
+2024-04-22,Q Commerce,Minute Maid,666,61.7,38.1
+2024-04-22,Q Commerce,Tropicana,1082,72.6,61.9
+2024-04-29,E Commerce,Amazon Solimo,211,64.5,19.2
+2024-04-29,E Commerce,Minute Maid,341,62.2,31.0
+2024-04-29,E Commerce,Real Fruit Juice,548,69.0,49.8
+2024-04-29,General Trade,Minute Maid,213,69.4,52.8
+2024-04-29,General Trade,Paper Boat,191,60.0,47.2
+2024-04-29,HoReCa,B Natural,197,74.4,28.7
+2024-04-29,HoReCa,Minute Maid,265,71.4,38.8
+2024-04-29,HoReCa,Paper Boat,223,68.9,32.5
+2024-04-29,Modern Trade,B Natural,481,67.7,40.5
+2024-04-29,Modern Trade,Minute Maid,707,70.8,59.5
+2024-04-29,Q Commerce,Minute Maid,318,73.8,34.9
+2024-04-29,Q Commerce,Tropicana,594,80.2,65.1
+2024-05-06,E Commerce,Amazon Solimo,162,61.6,18.4
+2024-05-06,E Commerce,Minute Maid,281,73.0,31.9
+2024-05-06,E Commerce,Real Fruit Juice,437,73.6,49.7
+2024-05-06,General Trade,Minute Maid,438,83.4,52.6
+2024-05-06,General Trade,Paper Boat,395,71.5,47.4
+2024-05-06,HoReCa,B Natural,218,60.7,31.6
+2024-05-06,HoReCa,Minute Maid,277,70.5,40.1
+2024-05-06,HoReCa,Paper Boat,196,74.6,28.3
+2024-05-06,Modern Trade,B Natural,343,77.3,41.3
+2024-05-06,Modern Trade,Minute Maid,488,72.3,58.7
+2024-05-06,Q Commerce,Minute Maid,516,74.7,38.2
+2024-05-06,Q Commerce,Tropicana,835,65.3,61.8
+2024-05-13,E Commerce,Amazon Solimo,208,71.7,17.0
+2024-05-13,E Commerce,Minute Maid,400,73.0,32.6
+2024-05-13,E Commerce,Real Fruit Juice,619,69.3,50.4
+2024-05-13,General Trade,Minute Maid,364,76.4,53.1
+2024-05-13,General Trade,Paper Boat,322,66.9,46.9
+2024-05-13,HoReCa,B Natural,130,64.7,30.9
+2024-05-13,HoReCa,Minute Maid,161,70.5,38.3
+2024-05-13,HoReCa,Paper Boat,130,69.7,30.8
+2024-05-13,Modern Trade,B Natural,420,57.1,41.4
+2024-05-13,Modern Trade,Minute Maid,595,64.8,58.6
+2024-05-13,Q Commerce,Minute Maid,139,72.2,38.0
+2024-05-13,Q Commerce,Tropicana,226,71.9,62.0
+2024-05-20,E Commerce,Amazon Solimo,186,62.7,16.3
+2024-05-20,E Commerce,Minute Maid,395,64.8,34.7
+2024-05-20,E Commerce,Real Fruit Juice,557,71.9,49.0
+2024-05-20,General Trade,Minute Maid,479,69.2,52.7
+2024-05-20,General Trade,Paper Boat,431,64.8,47.3
+2024-05-20,HoReCa,B Natural,180,70.8,27.2
+2024-05-20,HoReCa,Minute Maid,276,67.4,41.7
+2024-05-20,HoReCa,Paper Boat,205,63.5,31.1
+2024-05-20,Modern Trade,B Natural,449,69.6,43.1
+2024-05-20,Modern Trade,Minute Maid,594,69.7,56.9
+2024-05-20,Q Commerce,Minute Maid,391,73.4,37.8
+2024-05-20,Q Commerce,Tropicana,645,70.2,62.2
+2024-05-27,E Commerce,Amazon Solimo,130,50.1,20.1
+2024-05-27,E Commerce,Minute Maid,213,76.9,32.9
+2024-05-27,E Commerce,Real Fruit Juice,305,60.4,47.1
+2024-05-27,General Trade,Minute Maid,441,70.7,53.2
+2024-05-27,General Trade,Paper Boat,389,74.0,46.8
+2024-05-27,HoReCa,B Natural,154,61.0,30.0
+2024-05-27,HoReCa,Minute Maid,203,70.2,39.4
+2024-05-27,HoReCa,Paper Boat,157,67.8,30.6
+2024-05-27,Modern Trade,B Natural,498,71.2,42.9
+2024-05-27,Modern Trade,Minute Maid,663,63.6,57.1
+2024-05-27,Q Commerce,Minute Maid,194,74.3,37.5
+2024-05-27,Q Commerce,Tropicana,323,82.6,62.5
+2024-06-03,E Commerce,Amazon Solimo,183,71.0,16.3
+2024-06-03,E Commerce,Minute Maid,367,62.9,32.7
+2024-06-03,E Commerce,Real Fruit Juice,572,66.6,51.0
+2024-06-03,General Trade,Minute Maid,381,71.4,51.4
+2024-06-03,General Trade,Paper Boat,360,70.2,48.6
+2024-06-03,HoReCa,B Natural,230,78.6,30.7
+2024-06-03,HoReCa,Minute Maid,295,75.7,39.3
+2024-06-03,HoReCa,Paper Boat,225,67.2,30.0
+2024-06-03,Modern Trade,B Natural,609,78.6,39.4
+2024-06-03,Modern Trade,Minute Maid,936,67.6,60.6
+2024-06-03,Q Commerce,Minute Maid,307,60.3,37.4
+2024-06-03,Q Commerce,Tropicana,513,77.9,62.6
+2024-06-10,E Commerce,Amazon Solimo,350,67.1,17.7
+2024-06-10,E Commerce,Minute Maid,644,70.9,32.6
+2024-06-10,E Commerce,Real Fruit Juice,983,70.5,49.7
+2024-06-10,General Trade,Minute Maid,495,69.1,52.9
+2024-06-10,General Trade,Paper Boat,442,70.5,47.1
+2024-06-10,HoReCa,B Natural,299,67.1,30.6
+2024-06-10,HoReCa,Minute Maid,380,68.8,38.9
+2024-06-10,HoReCa,Paper Boat,298,73.5,30.5
+2024-06-10,Modern Trade,B Natural,397,69.4,40.3
+2024-06-10,Modern Trade,Minute Maid,587,74.8,59.7
+2024-06-10,Q Commerce,Minute Maid,422,67.4,38.0
+2024-06-10,Q Commerce,Tropicana,688,73.7,62.0
+2024-06-17,E Commerce,Amazon Solimo,206,69.7,18.5
+2024-06-17,E Commerce,Minute Maid,333,70.2,30.0
+2024-06-17,E Commerce,Real Fruit Juice,571,66.9,51.4
+2024-06-17,General Trade,Minute Maid,697,65.4,52.4
+2024-06-17,General Trade,Paper Boat,632,77.9,47.6
+2024-06-17,HoReCa,B Natural,218,63.1,29.6
+2024-06-17,HoReCa,Minute Maid,294,72.9,40.0
+2024-06-17,HoReCa,Paper Boat,223,71.5,30.3
+2024-06-17,Modern Trade,B Natural,335,69.0,41.2
+2024-06-17,Modern Trade,Minute Maid,479,72.9,58.8
+2024-06-17,Q Commerce,Minute Maid,331,74.1,38.5
+2024-06-17,Q Commerce,Tropicana,529,80.4,61.5
+2024-06-24,E Commerce,Amazon Solimo,398,53.8,18.8
+2024-06-24,E Commerce,Minute Maid,654,71.1,30.9
+2024-06-24,E Commerce,Real Fruit Juice,1067,71.6,50.4
+2024-06-24,General Trade,Minute Maid,530,80.8,52.5
+2024-06-24,General Trade,Paper Boat,479,67.6,47.5
+2024-06-24,HoReCa,B Natural,306,71.3,31.1
+2024-06-24,HoReCa,Minute Maid,402,71.9,40.9
+2024-06-24,HoReCa,Paper Boat,275,60.0,28.0
+2024-06-24,Modern Trade,B Natural,537,59.8,41.1
+2024-06-24,Modern Trade,Minute Maid,770,72.3,58.9
+2024-06-24,Q Commerce,Minute Maid,264,70.0,37.5
+2024-06-24,Q Commerce,Tropicana,440,76.7,62.5
+2024-07-01,E Commerce,Amazon Solimo,190,59.2,18.4
+2024-07-01,E Commerce,Minute Maid,316,83.0,30.6
+2024-07-01,E Commerce,Real Fruit Juice,529,61.6,51.1
+2024-07-01,General Trade,Minute Maid,770,71.3,52.2
+2024-07-01,General Trade,Paper Boat,704,63.0,47.8
+2024-07-01,HoReCa,B Natural,207,72.9,31.1
+2024-07-01,HoReCa,Minute Maid,243,71.8,36.5
+2024-07-01,HoReCa,Paper Boat,216,70.2,32.4
+2024-07-01,Modern Trade,B Natural,560,69.9,41.6
+2024-07-01,Modern Trade,Minute Maid,786,72.5,58.4
+2024-07-01,Q Commerce,Minute Maid,279,66.4,38.2
+2024-07-01,Q Commerce,Tropicana,451,65.6,61.8
+2024-07-08,E Commerce,Amazon Solimo,144,68.5,18.7
+2024-07-08,E Commerce,Minute Maid,263,65.6,34.1
+2024-07-08,E Commerce,Real Fruit Juice,365,71.6,47.2
+2024-07-08,General Trade,Minute Maid,329,62.3,53.0
+2024-07-08,General Trade,Paper Boat,291,73.1,47.0
+2024-07-08,HoReCa,B Natural,176,70.1,30.4
+2024-07-08,HoReCa,Minute Maid,219,73.3,37.9
+2024-07-08,HoReCa,Paper Boat,183,66.3,31.7
+2024-07-08,Modern Trade,B Natural,333,71.4,40.0
+2024-07-08,Modern Trade,Minute Maid,499,70.4,60.0
+2024-07-08,Q Commerce,Minute Maid,330,64.3,37.9
+2024-07-08,Q Commerce,Tropicana,542,74.1,62.1
+2024-07-15,E Commerce,Amazon Solimo,443,60.6,19.2
+2024-07-15,E Commerce,Minute Maid,697,73.1,30.1
+2024-07-15,E Commerce,Real Fruit Juice,1172,68.7,50.7
+2024-07-15,General Trade,Minute Maid,396,59.7,54.5
+2024-07-15,General Trade,Paper Boat,331,73.0,45.5
+2024-07-15,HoReCa,B Natural,218,67.9,31.3
+2024-07-15,HoReCa,Minute Maid,280,70.0,40.1
+2024-07-15,HoReCa,Paper Boat,199,66.5,28.5
+2024-07-15,Modern Trade,B Natural,412,75.5,40.7
+2024-07-15,Modern Trade,Minute Maid,601,71.1,59.3
+2024-07-15,Q Commerce,Minute Maid,448,71.4,41.1
+2024-07-15,Q Commerce,Tropicana,643,67.7,58.9
+2024-07-22,E Commerce,Amazon Solimo,306,58.9,19.7
+2024-07-22,E Commerce,Minute Maid,487,72.8,31.3
+2024-07-22,E Commerce,Real Fruit Juice,765,66.9,49.1
+2024-07-22,General Trade,Minute Maid,460,71.1,52.1
+2024-07-22,General Trade,Paper Boat,422,70.2,47.9
+2024-07-22,HoReCa,B Natural,275,76.3,33.6
+2024-07-22,HoReCa,Minute Maid,311,59.7,38.0
+2024-07-22,HoReCa,Paper Boat,233,70.2,28.4
+2024-07-22,Modern Trade,B Natural,427,75.8,40.1
+2024-07-22,Modern Trade,Minute Maid,637,66.4,59.9
+2024-07-22,Q Commerce,Minute Maid,319,71.2,38.7
+2024-07-22,Q Commerce,Tropicana,505,77.0,61.3
+2024-07-29,E Commerce,Amazon Solimo,178,66.0,19.9
+2024-07-29,E Commerce,Minute Maid,279,70.2,31.1
+2024-07-29,E Commerce,Real Fruit Juice,440,66.9,49.1
+2024-07-29,General Trade,Minute Maid,276,74.4,54.7
+2024-07-29,General Trade,Paper Boat,228,68.2,45.3
+2024-07-29,HoReCa,B Natural,172,54.8,30.5
+2024-07-29,HoReCa,Minute Maid,227,74.1,40.3
+2024-07-29,HoReCa,Paper Boat,164,70.9,29.2
+2024-07-29,Modern Trade,B Natural,383,74.9,40.0
+2024-07-29,Modern Trade,Minute Maid,575,71.3,60.0
+2024-07-29,Q Commerce,Minute Maid,375,68.5,35.4
+2024-07-29,Q Commerce,Tropicana,683,84.7,64.6
+2024-08-05,E Commerce,Amazon Solimo,449,57.1,18.3
+2024-08-05,E Commerce,Minute Maid,739,82.0,30.1
+2024-08-05,E Commerce,Real Fruit Juice,1271,74.7,51.7
+2024-08-05,General Trade,Minute Maid,514,63.5,52.3
+2024-08-05,General Trade,Paper Boat,468,73.7,47.7
+2024-08-05,HoReCa,B Natural,176,77.8,32.4
+2024-08-05,HoReCa,Minute Maid,215,78.6,39.5
+2024-08-05,HoReCa,Paper Boat,153,67.6,28.1
+2024-08-05,Modern Trade,B Natural,311,75.1,41.0
+2024-08-05,Modern Trade,Minute Maid,447,59.4,59.0
+2024-08-05,Q Commerce,Minute Maid,482,66.6,37.2
+2024-08-05,Q Commerce,Tropicana,814,74.7,62.8
+2024-08-12,E Commerce,Amazon Solimo,252,59.0,14.9
+2024-08-12,E Commerce,Minute Maid,525,67.4,31.1
+2024-08-12,E Commerce,Real Fruit Juice,911,77.1,54.0
+2024-08-12,General Trade,Minute Maid,464,68.1,52.2
+2024-08-12,General Trade,Paper Boat,425,70.7,47.8
+2024-08-12,HoReCa,B Natural,219,62.3,29.9
+2024-08-12,HoReCa,Minute Maid,291,73.9,39.7
+2024-08-12,HoReCa,Paper Boat,223,70.1,30.4
+2024-08-12,Modern Trade,B Natural,282,74.9,38.3
+2024-08-12,Modern Trade,Minute Maid,454,69.4,61.7
+2024-08-12,Q Commerce,Minute Maid,422,74.9,38.3
+2024-08-12,Q Commerce,Tropicana,679,77.6,61.7
+2024-08-19,E Commerce,Amazon Solimo,220,62.3,19.4
+2024-08-19,E Commerce,Minute Maid,382,69.5,33.7
+2024-08-19,E Commerce,Real Fruit Juice,533,66.1,47.0
+2024-08-19,General Trade,Minute Maid,418,78.8,54.2
+2024-08-19,General Trade,Paper Boat,354,73.0,45.8
+2024-08-19,HoReCa,B Natural,253,76.1,30.0
+2024-08-19,HoReCa,Minute Maid,340,76.8,40.3
+2024-08-19,HoReCa,Paper Boat,251,66.6,29.7
+2024-08-19,Modern Trade,B Natural,531,73.0,39.9
+2024-08-19,Modern Trade,Minute Maid,800,63.5,60.1
+2024-08-19,Q Commerce,Minute Maid,323,74.2,37.4
+2024-08-19,Q Commerce,Tropicana,540,77.8,62.6
+2024-08-26,E Commerce,Amazon Solimo,260,54.7,21.8
+2024-08-26,E Commerce,Minute Maid,402,74.3,33.7
+2024-08-26,E Commerce,Real Fruit Juice,530,69.4,44.5
+2024-08-26,General Trade,Minute Maid,675,75.9,54.3
+2024-08-26,General Trade,Paper Boat,569,69.1,45.7
+2024-08-26,HoReCa,B Natural,128,69.2,30.1
+2024-08-26,HoReCa,Minute Maid,162,69.7,37.9
+2024-08-26,HoReCa,Paper Boat,137,65.5,32.0
+2024-08-26,Modern Trade,B Natural,581,78.6,39.4
+2024-08-26,Modern Trade,Minute Maid,893,64.0,60.6
+2024-08-26,Q Commerce,Minute Maid,221,71.7,39.0
+2024-08-26,Q Commerce,Tropicana,346,72.9,61.0
+2024-09-02,E Commerce,Amazon Solimo,205,60.1,22.4
+2024-09-02,E Commerce,Minute Maid,287,73.8,31.4
+2024-09-02,E Commerce,Real Fruit Juice,423,76.9,46.2
+2024-09-02,General Trade,Minute Maid,538,68.5,51.1
+2024-09-02,General Trade,Paper Boat,515,71.1,48.9
+2024-09-02,HoReCa,B Natural,294,68.2,32.7
+2024-09-02,HoReCa,Minute Maid,344,75.1,38.2
+2024-09-02,HoReCa,Paper Boat,261,64.8,29.0
+2024-09-02,Modern Trade,B Natural,394,67.3,41.6
+2024-09-02,Modern Trade,Minute Maid,552,72.6,58.4
+2024-09-02,Q Commerce,Minute Maid,403,74.9,36.3
+2024-09-02,Q Commerce,Tropicana,708,73.3,63.7
+2024-09-09,E Commerce,Amazon Solimo,248,73.1,18.1
+2024-09-09,E Commerce,Minute Maid,470,70.2,34.3
+2024-09-09,E Commerce,Real Fruit Juice,650,72.3,47.5
+2024-09-09,General Trade,Minute Maid,796,73.7,51.1
+2024-09-09,General Trade,Paper Boat,762,77.2,48.9
+2024-09-09,HoReCa,B Natural,221,78.6,30.6
+2024-09-09,HoReCa,Minute Maid,289,78.5,40.1
+2024-09-09,HoReCa,Paper Boat,211,66.3,29.3
+2024-09-09,Modern Trade,B Natural,562,70.1,39.2
+2024-09-09,Modern Trade,Minute Maid,873,77.7,60.8
+2024-09-09,Q Commerce,Minute Maid,328,61.9,40.0
+2024-09-09,Q Commerce,Tropicana,493,75.8,60.0
+2024-09-16,E Commerce,Amazon Solimo,127,67.6,21.0
+2024-09-16,E Commerce,Minute Maid,197,71.6,32.6
+2024-09-16,E Commerce,Real Fruit Juice,281,68.7,46.4
+2024-09-16,General Trade,Minute Maid,485,75.6,52.8
+2024-09-16,General Trade,Paper Boat,433,63.3,47.2
+2024-09-16,HoReCa,B Natural,143,75.0,30.4
+2024-09-16,HoReCa,Minute Maid,177,65.6,37.5
+2024-09-16,HoReCa,Paper Boat,152,65.7,32.1
+2024-09-16,Modern Trade,B Natural,486,74.7,39.6
+2024-09-16,Modern Trade,Minute Maid,742,75.5,60.4
+2024-09-16,Q Commerce,Minute Maid,304,70.1,37.4
+2024-09-16,Q Commerce,Tropicana,507,75.3,62.6
+2024-09-23,E Commerce,Amazon Solimo,241,67.0,17.3
+2024-09-23,E Commerce,Minute Maid,452,71.7,32.4
+2024-09-23,E Commerce,Real Fruit Juice,702,65.9,50.3
+2024-09-23,General Trade,Minute Maid,510,67.2,50.9
+2024-09-23,General Trade,Paper Boat,493,69.6,49.1
+2024-09-23,HoReCa,B Natural,203,67.8,29.6
+2024-09-23,HoReCa,Minute Maid,271,69.6,39.7
+2024-09-23,HoReCa,Paper Boat,209,69.8,30.6
+2024-09-23,Modern Trade,B Natural,491,72.9,38.9
+2024-09-23,Modern Trade,Minute Maid,773,67.9,61.1
+2024-09-23,Q Commerce,Minute Maid,207,67.9,38.7
+2024-09-23,Q Commerce,Tropicana,328,78.1,61.3
+2024-09-30,E Commerce,Amazon Solimo,226,64.2,18.5
+2024-09-30,E Commerce,Minute Maid,378,72.4,31.0
+2024-09-30,E Commerce,Real Fruit Juice,616,65.9,50.5
+2024-09-30,General Trade,Minute Maid,1179,73.1,54.5
+2024-09-30,General Trade,Paper Boat,986,75.9,45.5
+2024-09-30,HoReCa,B Natural,138,69.2,30.1
+2024-09-30,HoReCa,Minute Maid,179,61.3,39.0
+2024-09-30,HoReCa,Paper Boat,141,65.8,30.9
+2024-09-30,Modern Trade,B Natural,594,67.5,43.2
+2024-09-30,Modern Trade,Minute Maid,781,69.3,56.8
+2024-09-30,Q Commerce,Minute Maid,330,68.7,39.5
+2024-09-30,Q Commerce,Tropicana,506,76.5,60.5
+2024-10-07,E Commerce,Amazon Solimo,173,71.3,16.8
+2024-10-07,E Commerce,Minute Maid,328,74.1,31.8
+2024-10-07,E Commerce,Real Fruit Juice,529,69.3,51.4
+2024-10-07,General Trade,Minute Maid,525,73.0,53.5
+2024-10-07,General Trade,Paper Boat,457,58.2,46.5
+2024-10-07,HoReCa,B Natural,272,70.1,29.3
+2024-10-07,HoReCa,Minute Maid,357,73.8,38.5
+2024-10-07,HoReCa,Paper Boat,300,68.7,32.2
+2024-10-07,Modern Trade,B Natural,329,79.1,39.6
+2024-10-07,Modern Trade,Minute Maid,502,68.3,60.4
+2024-10-07,Q Commerce,Minute Maid,251,70.5,37.1
+2024-10-07,Q Commerce,Tropicana,427,70.6,62.9
+2024-10-14,E Commerce,Amazon Solimo,296,65.0,19.6
+2024-10-14,E Commerce,Minute Maid,467,70.1,31.0
+2024-10-14,E Commerce,Real Fruit Juice,747,70.2,49.5
+2024-10-14,General Trade,Minute Maid,288,73.7,53.4
+2024-10-14,General Trade,Paper Boat,251,70.4,46.6
+2024-10-14,HoReCa,B Natural,317,69.5,28.5
+2024-10-14,HoReCa,Minute Maid,447,67.9,40.3
+2024-10-14,HoReCa,Paper Boat,347,64.3,31.2
+2024-10-14,Modern Trade,B Natural,527,69.7,40.4
+2024-10-14,Modern Trade,Minute Maid,778,70.5,59.6
+2024-10-14,Q Commerce,Minute Maid,329,65.6,39.3
+2024-10-14,Q Commerce,Tropicana,508,70.5,60.7
+2024-10-21,E Commerce,Amazon Solimo,347,74.9,19.5
+2024-10-21,E Commerce,Minute Maid,556,73.4,31.2
+2024-10-21,E Commerce,Real Fruit Juice,880,69.8,49.4
+2024-10-21,General Trade,Minute Maid,454,62.0,50.3
+2024-10-21,General Trade,Paper Boat,449,61.9,49.7
+2024-10-21,HoReCa,B Natural,198,80.2,31.2
+2024-10-21,HoReCa,Minute Maid,248,60.4,38.9
+2024-10-21,HoReCa,Paper Boat,190,76.4,29.9
+2024-10-21,Modern Trade,B Natural,253,73.5,40.0
+2024-10-21,Modern Trade,Minute Maid,380,65.8,60.0
+2024-10-21,Q Commerce,Minute Maid,293,72.0,38.6
+2024-10-21,Q Commerce,Tropicana,466,73.7,61.4
+2024-10-28,E Commerce,Amazon Solimo,295,65.2,21.7
+2024-10-28,E Commerce,Minute Maid,414,71.8,30.4
+2024-10-28,E Commerce,Real Fruit Juice,650,56.5,47.8
+2024-10-28,General Trade,Minute Maid,568,71.0,51.6
+2024-10-28,General Trade,Paper Boat,532,71.4,48.4
+2024-10-28,HoReCa,B Natural,185,72.2,32.8
+2024-10-28,HoReCa,Minute Maid,212,70.6,37.6
+2024-10-28,HoReCa,Paper Boat,167,63.7,29.6
+2024-10-28,Modern Trade,B Natural,501,77.5,39.9
+2024-10-28,Modern Trade,Minute Maid,754,62.3,60.1
+2024-10-28,Q Commerce,Minute Maid,317,73.7,39.7
+2024-10-28,Q Commerce,Tropicana,482,65.4,60.3
+2024-11-04,E Commerce,Amazon Solimo,210,63.8,17.5
+2024-11-04,E Commerce,Minute Maid,385,66.3,32.2
+2024-11-04,E Commerce,Real Fruit Juice,601,71.4,50.3
+2024-11-04,General Trade,Minute Maid,454,71.6,53.0
+2024-11-04,General Trade,Paper Boat,403,70.1,47.0
+2024-11-04,HoReCa,B Natural,254,76.4,30.9
+2024-11-04,HoReCa,Minute Maid,299,72.2,36.4
+2024-11-04,HoReCa,Paper Boat,268,70.5,32.7
+2024-11-04,Modern Trade,B Natural,460,69.1,42.8
+2024-11-04,Modern Trade,Minute Maid,614,69.2,57.2
+2024-11-04,Q Commerce,Minute Maid,399,69.1,41.3
+2024-11-04,Q Commerce,Tropicana,568,84.0,58.7
+2024-11-11,E Commerce,Amazon Solimo,356,62.7,18.7
+2024-11-11,E Commerce,Minute Maid,632,74.0,33.2
+2024-11-11,E Commerce,Real Fruit Juice,912,70.0,48.0
+2024-11-11,General Trade,Minute Maid,616,74.5,51.8
+2024-11-11,General Trade,Paper Boat,574,68.7,48.2
+2024-11-11,HoReCa,B Natural,186,70.8,33.0
+2024-11-11,HoReCa,Minute Maid,211,69.3,37.5
+2024-11-11,HoReCa,Paper Boat,166,64.2,29.5
+2024-11-11,Modern Trade,B Natural,381,76.8,39.5
+2024-11-11,Modern Trade,Minute Maid,584,76.0,60.5
+2024-11-11,Q Commerce,Minute Maid,287,61.5,40.2
+2024-11-11,Q Commerce,Tropicana,427,77.9,59.8
+2024-11-18,E Commerce,Amazon Solimo,207,66.4,21.0
+2024-11-18,E Commerce,Minute Maid,315,66.0,32.1
+2024-11-18,E Commerce,Real Fruit Juice,461,67.0,46.9
+2024-11-18,General Trade,Minute Maid,638,67.4,53.1
+2024-11-18,General Trade,Paper Boat,562,73.1,46.9
+2024-11-18,HoReCa,B Natural,166,74.4,31.5
+2024-11-18,HoReCa,Minute Maid,193,72.9,36.7
+2024-11-18,HoReCa,Paper Boat,167,62.5,31.8
+2024-11-18,Modern Trade,B Natural,303,79.6,40.7
+2024-11-18,Modern Trade,Minute Maid,441,80.2,59.3
+2024-11-18,Q Commerce,Minute Maid,473,60.7,40.5
+2024-11-18,Q Commerce,Tropicana,695,71.1,59.5
+2024-11-25,E Commerce,Amazon Solimo,281,70.7,18.6
+2024-11-25,E Commerce,Minute Maid,436,76.6,28.9
+2024-11-25,E Commerce,Real Fruit Juice,791,71.6,52.5
+2024-11-25,General Trade,Minute Maid,242,73.4,52.4
+2024-11-25,General Trade,Paper Boat,221,65.2,47.6
+2024-11-25,HoReCa,B Natural,249,75.0,31.5
+2024-11-25,HoReCa,Minute Maid,309,77.3,39.1
+2024-11-25,HoReCa,Paper Boat,233,62.3,29.4
+2024-11-25,Modern Trade,B Natural,521,67.8,41.6
+2024-11-25,Modern Trade,Minute Maid,733,77.7,58.4
+2024-11-25,Q Commerce,Minute Maid,269,61.0,42.0
+2024-11-25,Q Commerce,Tropicana,370,75.0,58.0
+2024-12-02,E Commerce,Amazon Solimo,197,59.9,19.6
+2024-12-02,E Commerce,Minute Maid,307,68.6,30.6
+2024-12-02,E Commerce,Real Fruit Juice,501,71.9,49.9
+2024-12-02,General Trade,Minute Maid,752,62.2,54.3
+2024-12-02,General Trade,Paper Boat,634,68.6,45.7
+2024-12-02,HoReCa,B Natural,218,68.4,29.4
+2024-12-02,HoReCa,Minute Maid,286,68.1,38.6
+2024-12-02,HoReCa,Paper Boat,237,69.8,32.0
+2024-12-02,Modern Trade,B Natural,330,72.7,42.2
+2024-12-02,Modern Trade,Minute Maid,453,69.8,57.8
+2024-12-02,Q Commerce,Minute Maid,379,61.7,39.0
+2024-12-02,Q Commerce,Tropicana,593,71.1,61.0
+2024-12-09,E Commerce,Amazon Solimo,153,78.5,19.9
+2024-12-09,E Commerce,Minute Maid,232,74.2,30.0
+2024-12-09,E Commerce,Real Fruit Juice,387,73.3,50.1
+2024-12-09,General Trade,Minute Maid,527,69.8,50.7
+2024-12-09,General Trade,Paper Boat,512,69.2,49.3
+2024-12-09,HoReCa,B Natural,233,74.6,29.7
+2024-12-09,HoReCa,Minute Maid,320,70.2,40.8
+2024-12-09,HoReCa,Paper Boat,232,59.0,29.6
+2024-12-09,Modern Trade,B Natural,522,71.3,39.3
+2024-12-09,Modern Trade,Minute Maid,805,70.2,60.7
+2024-12-09,Q Commerce,Minute Maid,304,75.2,38.3
+2024-12-09,Q Commerce,Tropicana,489,73.9,61.7
+2024-12-16,E Commerce,Amazon Solimo,263,64.5,17.6
+2024-12-16,E Commerce,Minute Maid,469,65.5,31.4
+2024-12-16,E Commerce,Real Fruit Juice,760,65.1,50.9
+2024-12-16,General Trade,Minute Maid,259,69.4,51.0
+2024-12-16,General Trade,Paper Boat,249,72.2,49.0
+2024-12-16,HoReCa,B Natural,312,68.5,31.1
+2024-12-16,HoReCa,Minute Maid,417,69.2,41.4
+2024-12-16,HoReCa,Paper Boat,277,68.8,27.5
+2024-12-16,Modern Trade,B Natural,372,72.3,42.5
+2024-12-16,Modern Trade,Minute Maid,503,71.3,57.5
+2024-12-16,Q Commerce,Minute Maid,449,67.1,37.0
+2024-12-16,Q Commerce,Tropicana,765,65.0,63.0
+2024-12-23,E Commerce,Amazon Solimo,315,55.0,19.6
+2024-12-23,E Commerce,Minute Maid,480,71.1,29.9
+2024-12-23,E Commerce,Real Fruit Juice,810,67.1,50.5
+2024-12-23,General Trade,Minute Maid,370,63.0,52.6
+2024-12-23,General Trade,Paper Boat,334,74.7,47.4
+2024-12-23,HoReCa,B Natural,136,69.0,30.3
+2024-12-23,HoReCa,Minute Maid,174,75.7,38.7
+2024-12-23,HoReCa,Paper Boat,140,81.5,31.0
+2024-12-23,Modern Trade,B Natural,318,62.5,39.9
+2024-12-23,Modern Trade,Minute Maid,479,70.1,60.1
+2024-12-23,Q Commerce,Minute Maid,337,67.0,41.4
+2024-12-23,Q Commerce,Tropicana,478,75.8,58.6
+2024-12-30,E Commerce,Amazon Solimo,120,60.5,18.9
+2024-12-30,E Commerce,Minute Maid,199,77.7,31.3
+2024-12-30,E Commerce,Real Fruit Juice,316,73.2,49.8
+2024-12-30,General Trade,Minute Maid,377,78.2,52.2
+2024-12-30,General Trade,Paper Boat,345,58.1,47.8
+2024-12-30,HoReCa,B Natural,225,58.5,30.5
+2024-12-30,HoReCa,Minute Maid,279,65.3,37.9
+2024-12-30,HoReCa,Paper Boat,232,65.3,31.6
+2024-12-30,Modern Trade,B Natural,247,69.8,40.8
+2024-12-30,Modern Trade,Minute Maid,359,69.4,59.2
+2024-12-30,Q Commerce,Minute Maid,430,60.5,37.4
+2024-12-30,Q Commerce,Tropicana,721,76.9,62.6
